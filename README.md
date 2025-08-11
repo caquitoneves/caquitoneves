@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Caco Neves!
+## Olá, meu nome é Caio Neves, mas pode me chamar de Caco!
 
 Sou **Engenheiro de Software Full Stack** com mais de 5 anos de experiência, especializado no desenvolvimento de aplicações web escaláveis e de alta performance.  
 Atuei por 4 anos como Analista de Sistemas no **Itaú Unibanco**, o maior banco da América Latina, onde contribui para ganhos de performance de até **300%** em sistemas críticos.  
@@ -27,12 +27,6 @@ Atuei por 4 anos como Analista de Sistemas no **Itaú Unibanco**, o maior banco 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS"/></code>
-
----
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caconeves&show_icons=true&theme=dracula)
 
 ---
 📫 **Entre em contato:**  

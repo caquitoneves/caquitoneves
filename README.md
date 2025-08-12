@@ -1,7 +1,6 @@
 ## Olá, meu nome é Caio Neves, mas pode me chamar de Caco!
 
-Sou **Engenheiro de Software Full Stack** com mais de 5 anos de experiência, especializado no desenvolvimento de aplicações web escaláveis e de alta performance.  
-Atuei por 4 anos como Analista de Sistemas no **Itaú Unibanco**, o maior banco da América Latina, onde contribui para ganhos de performance de até **300%** em sistemas críticos.  
+Sou **Engenheiro de Software Full Stack** com mais de 5 anos de experiência, especializado no desenvolvimento de aplicações web escaláveis e de alta performance. Atuei por 4 anos como Analista de Sistemas no **Itaú Unibanco**, o maior banco da América Latina.
 
 🔭 Atualmente, estou trabalhando no meu projeto **Drovi**, uma plataforma digital desenvolvida em **Next.js + NestJS + MongoDB** para gestão de cooperativas de motofretistas, com foco em escalabilidade e experiência do usuário.  
 
